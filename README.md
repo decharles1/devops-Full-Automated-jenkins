@@ -7,7 +7,7 @@
 1) ###### GitHub setup
     Fork GitHub Repository by using the existing repo "devops-fully-automated" (https://github.com/cvamsikrishna11/devops-fully-automated)     
     - Go to GitHub (github.com)
-    - Login to your GitHub Account
+    
     - **Fork repository "devops-fully-automated" (https://github.com/cvamsikrishna11/devops-fully-automated) & name it "devops-fully-automated"**
     - Clone your newly created repo to your local
 
